@@ -1,0 +1,11 @@
+{
+  "name": "FluidWagonColorMaskCompat",
+  "version": "0.1.0",
+  "title": "Fluid Wagon Color Mask Compatibility Mod",
+  "author": "chdcl",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "FluidWagonColorMask >= 1.1.0"
+  ],
+  "description": "Applies the fluid wagon color mask to all modded trains which use vanilla graphics"
+}

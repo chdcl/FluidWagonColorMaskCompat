@@ -1,0 +1,1 @@
+Adds fluid wagon color mask to all modded fluid wagons which use vanilla graphics.
